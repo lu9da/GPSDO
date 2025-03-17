@@ -43,7 +43,7 @@ For example, parts of this work are based on what F2DC programmed in his GPSDO, 
 After searching and seeing that they all do the same thing, I used some of them and would like to thank him for making his work available.
 
 The rest of this source is available for free use by radio amateurs, but not for commercial use.
-If you plan to sell anything with all or part of this source, you must first contact LU9DA (lu9da@lu9da.org) to obtain written authorization.
+If you plan to sell anything with all or part of this source, you must first contact LU9DA (lu9da (at) lu9da dot org) to obtain written authorization.
 
 The SI5351 library is from Etherkit!
 
