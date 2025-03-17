@@ -5,6 +5,9 @@ Por ejemplo, partes de este trabajo se basa el lo programado por F2DC en su gpsd
 medicion de frecuencia por interrupt, despues de buscar y ver que todos hacen lo mismo, use parte de ellas y
 a el va el agradecimiento por hacer disponible su trabajo.
 
+Y SI! el fuente tiene chanchadas, tipo duplicar la funcion edita, pero llamarla dos veces generaba un cuelgue y,
+realmente, me canso.... Algun dia lo arreglare, y sino, asi funciona....
+
 El resto de este fuente esta disponible para uso gratuito por radioaficionados, no asi para uso comercial
 Si la idea es vender algo con todo o parte de este fuente, debe contactar primero a LU9DA
 ( lu9da (at) lu9da dot org) para obtener atuorizacion escrita. 
@@ -41,6 +44,9 @@ My personal version of GPSDO, built with information captured here and there...
 If anyone thinks they have any rights to any of this, fine, that's fine.
 For example, parts of this work are based on what F2DC programmed in his GPSDO, such as the interrupt frequency measurement routines. 
 After searching and seeing that they all do the same thing, I used some of them and would like to thank him for making his work available.
+
+And YES! The source code has tricks, like duplicating the edit function, but calling it twice causes a crash, and I'm really tired of it.... 
+Someday I'll fix it, and if not, this is how it works....
 
 The rest of this source is available for free use by radio amateurs, but not for commercial use.
 If you plan to sell anything with all or part of this source, you must first contact LU9DA (lu9da (at) lu9da dot org) to obtain written authorization.
