@@ -4,7 +4,7 @@
 *
 * Este fuente esta disponible para uso gratuito por radioaficionados, no asi para uso comercial
 * Si la idea es vender algo con todo o parte de este fuente, debe contactar primero a LU9DA
-* (lu9da@lu9da.org) para obtener atuorizacion escrita.
+* (lu9da (at) lu9da dot org) para obtener atuorizacion escrita.
 *
 * Partes de este trabajo se basa el lo programado por F2DC en su gpsdo, por ejemplo las rutinas de
 * medicion de frecuencia por interrupt, a el va el agradecimiento por hacer disponible su trabajo
